@@ -1,2 +1,1 @@
-var userName="John";
-console.log("welcom",userName);
+console.log((5%3);
